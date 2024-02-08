@@ -51,9 +51,9 @@
   
   <br/>
   
-###
+
 <img src="https://raw.githubusercontent.com/azlanmalik/azlanmalik/output/snake.svg" alt="Snake animation" />
-###
+
 
   <br/><br/>
 </div>
