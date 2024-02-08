@@ -49,7 +49,13 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azlanmalik/azlanmalik/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
+  
+###
+<img src="https://raw.githubusercontent.com/azlanmalik/azlanmalik/output/snake.svg" alt="Snake animation" />
+###
+
+  <br/><br/>
 </div>
 
 <hr/>
