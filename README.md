@@ -12,12 +12,10 @@
   <a href="https://www.threads.com/@azlan.malik"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-threads-dark.png"><img alt="Threads" src="assets/btn-threads-light.png" height="40"></picture></a>
 </p>
 
-<a href="https://azlanmalik.com/work/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.png">
-    <img alt="45% off a healthcare platform's cloud bill · ISO 27001 and GDPR, achieved twice · startup infrastructure built from scratch · 3+ years running real platforms" src="assets/stats-light.png" width="100%">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.png">
+  <img alt="Right now. Building: Auton, coding agents side by side with you watching. Shipping: MunshiPlus, a free app for wholesale businesses. Learning: how far AI agents can safely go in production. Writing: practical notes from real work." src="assets/now-light.png" width="100%">
+</picture>
 
 ### Now building
 
@@ -26,29 +24,15 @@
   <a href="https://play.google.com/store/apps/details?id=com.munshiplus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/munshiplus-dark.png"><img alt="MunshiPlus: a free, offline-first order and collection tracker for Pakistani wholesale businesses, on Google Play." src="assets/munshiplus-light.png" width="49%"></picture></a>
 </p>
 
-### Where I've worked
+### What I'm into lately
 
-<table>
-  <tr>
-    <td width="44"><img src="assets/logos/xceed365.png" width="32" alt=""></td>
-    <td><b>Xceed365</b> · DevOps and AI platform engineer<br><sub>May 2026 to now</sub></td>
-    <td>Moved the whole platform to a new cloud: multi-tenant, highly available, ISO 27001 and GDPR. <a href="https://azlanmalik.com/work/xceed365-ai-platform/">Case study →</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/logos/sehat-kahani.png" width="32" alt=""></td>
-    <td><b>Sehat Kahani</b> · DevOps and data engineer<br><sub>Apr 2024 to May 2026</sub></td>
-    <td>Moved a healthcare platform to a new cloud, compliant and <b>45% cheaper</b>. <a href="https://azlanmalik.com/work/healthcare-cloud-cost/">Case study →</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/logos/neem.png" width="32" alt=""></td>
-    <td><b>Neem</b> · DevOps engineer<br><sub>Mar to Nov 2024</sub></td>
-    <td>Ran the cloud environment for a banking-as-a-service platform. <a href="https://azlanmalik.com/work/neem-payments-platform/">Case study →</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/logos/zetsol.png" width="32" alt=""></td>
-    <td><b>ZETSOL Technologies</b> · DevSecOps engineer<br><sub>May 2023 to May 2026</sub></td>
-    <td>Built infrastructure for several startups from scratch, with CI/CD and lower cloud bills. <a href="https://azlanmalik.com/work/startups-from-scratch/">Case study →</a></td>
-  </tr>
-</table>
+- **Agents on call.** Letting AI agents handle the boring part of operations, with a person approving anything they can't undo in one command.
+- **Many agents, one task.** Running Claude Code, Codex and Gemini on the same problem and keeping the best attempt. Auton grew out of this.
+- **Apps that work offline.** Building for a shop with a cheap phone and no signal. That's MunshiPlus.
+- **Smaller cloud bills.** Finding the money a platform spends on things nobody uses.
 
-<sub>Cloud migrations · Kubernetes · Terraform · CI/CD · Linux · ISO 27001 and GDPR · AI agents in operations. Notes from real work at <a href="https://azlanmalik.com/blog/">azlanmalik.com/blog</a>, reach me at <a href="mailto:hi@azlanmalik.com">hi@azlanmalik.com</a>.</sub>
+### Ask me about
+
+Moving a platform to a new cloud · ISO 27001 and GDPR without a binder · cutting cloud costs · putting AI agents to work in DevOps
+
+<sub>Notes from real work at <a href="https://azlanmalik.com/blog/">azlanmalik.com/blog</a> · <a href="mailto:hi@azlanmalik.com">hi@azlanmalik.com</a></sub>
