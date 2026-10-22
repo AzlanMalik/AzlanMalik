@@ -1,62 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=azlanmalik.azlanmalik" />
+### Hi, I'm Azlan
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azlan+Malik!;" />
-</h1>
+**I teach infrastructure to run itself.** I'm a DevOps engineer who uses AI agents to build, run and fix real systems, and I write down what works.
 
-<h3 align="center">A passionate Software developer and DevOps Engineer </h3>
+[azlanmalik.com](https://azlanmalik.com) · [LinkedIn](https://www.linkedin.com/in/azlanmalik) · [X](https://x.com/azlan_dev) · [Threads](https://www.threads.com/@azlan.malik) · [hi@azlanmalik.com](mailto:hi@azlanmalik.com)
 
-<br/>
+#### Now building
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **AIOps, Chaos Engineering, Azure** 
+- **[Auton](https://useauton.com)**: an agentic development environment where Claude Code, Codex and Gemini work side by side in panes you can watch, and you review every change before it lands.
+- **[MunshiPlus](https://munshi.easybiz.site/)**: a free, offline-first order and collection tracker for Pakistani wholesale businesses, [on Google Play](https://play.google.com/store/apps/details?id=com.munshiplus).
 
-💬 Ask me about **Docker, Kubernetes, Terraform... or anything [here](https://github.com/azlanmalik/azlanmalik/issues)**
+#### What I've done
 
-⚡ Fun fact **Your smartphone today has more computing power than the computers that sent us to the moon in 1969. It's a rocket scientist in your pocket!" 🚀📱😄**
+- Moved an enterprise HR platform to a new cloud: multi-tenant, highly available, ISO 27001 and GDPR. ([case study](https://azlanmalik.com/work/xceed365-ai-platform/))
+- Moved a healthcare platform to a new cloud, compliant and **45% cheaper**. ([case study](https://azlanmalik.com/work/healthcare-cloud-cost/))
+- Ran the cloud environment for a banking-as-a-service platform. ([case study](https://azlanmalik.com/work/neem-payments-platform/))
+- Built infrastructure for several startups from scratch, with CI/CD and lower cloud bills. ([case study](https://azlanmalik.com/work/startups-from-scratch/))
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:hi@azlanmalik.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/azlan-malik-b1baa815a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://azlanmalik.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+#### Latest writing
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,ansible,jenkins,docker,terraform,html,css,vscode,gitlab,github,git,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,bash,mongodb,mysql,django,flask,linux,redis" /><br>
-</div>
+<!-- BLOG-POST-LIST:START -->
+- [I've never been good at posting, so I'm giving it one more shot](https://azlanmalik.com/blog/one-more-shot/)
+- [Why I started writing, and why I host it myself](https://azlanmalik.com/blog/my-first-blog/)
+<!-- BLOG-POST-LIST:END -->
 
-<br/>
-<hr/>
+#### Day to day
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azlanmalik/azlanmalik/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-
-  <br/><br/>
-</div>
-
-<hr/>
-
-
-
-
-<br/>
+Cloud migrations · Kubernetes · Terraform · CI/CD · Linux · compliance (ISO 27001, GDPR) · AI agents in operations
